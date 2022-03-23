@@ -91,6 +91,5 @@ article > header {
   padding: 28px;
   border-radius: 8px;
   margin-bottom: 25px;
-  box-shadow: 0 0 10px grey; /* TODO Remove */
   overflow: hidden;
 }
